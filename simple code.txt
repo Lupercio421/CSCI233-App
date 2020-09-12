@@ -1,0 +1,14 @@
+Setting up the virtual environment in VS Code in terminal:
+venv\Scripts\activate
+
+Running the flask app on the terminal:
+flask run
+
+Python Anywhere
+Our source file: flask_app.py
+
+
+
+To check you files :
+git status
+
